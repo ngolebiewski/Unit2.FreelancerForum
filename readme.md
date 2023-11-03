@@ -1,4 +1,4 @@
-***Unit.2 Freelancer Forum***
+**Unit.2 Freelancer Forum**
 
 *User Story*
 
@@ -6,4 +6,4 @@
 
 - The visitor also finds a message that displays the average starting price of all the freelancers. In this example, the average starting price is $40.
 
-- __Note to self: Remeber to link the javascript in the BODY and not the HEAD of the html doc!__
+- __Note to self: Remember to link the javascript in the BODY and not the HEAD of the html doc!__
